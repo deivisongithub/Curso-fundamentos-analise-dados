@@ -1,2 +1,2 @@
-# Aprendendo-POO
-Códigos de atividades de poo com python
+# Python Fundamentos Para Análise de Dados 3.0
+Códigos de atividades do curso
